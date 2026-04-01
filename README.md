@@ -47,12 +47,6 @@ com.example.dearme
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here to improve your project visibility)
-
----
-
 ## 📌 Future Improvements
 
 - Add user authentication  
